@@ -35,7 +35,7 @@ gcc with_mutex.c -o with_mutex -pthread
 
 ---
 
-### 2. Producer-Consumer Simulation
+Practical 2: Producer-Consumer Simulation
 
 **Objective**
 - Implement the Producer-Consumer problem using POSIX semaphores.
@@ -65,7 +65,7 @@ gcc producer_consumer.c -o producer_consumer -pthread
 
 ---
 
-### 3. Semaphore Implementation
+Practical 3: Semaphore Implementation
 
 **Objective**
 - Demonstrate synchronization using semaphores.
@@ -90,7 +90,7 @@ gcc semaphore_demo.c -o semaphore_demo -pthread
 
 ---
 
-### 4. Shared Memory Programming
+Practical 4: Shared Memory Programming
 
 **Objective**
 - Implement Inter-Process Communication (IPC) using shared memory.
