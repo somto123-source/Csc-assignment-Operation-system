@@ -1,10 +1,10 @@
-# CSC 308 – Operating Systems Practicals
+CSC 308 – Operating Systems Practicals
 
 This repository contains my practical implementations for **CSC 308 (Operating Systems)**. The programs demonstrate key operating system concepts such as thread synchronization, mutual exclusion, semaphores, the Producer-Consumer problem, and Inter-Process Communication (IPC) using shared memory.
 
 Practical Sessions
 
-## Mutex Lock Demonstration
+Mutex Lock Demonstration
 
 **Objective**
 - Demonstrate mutual exclusion using POSIX mutex locks.
